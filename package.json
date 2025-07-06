@@ -1,6 +1,6 @@
 {
-  "name": "runica:-d&d-character-sheet-manager",
-  "homepage": "https://s-pinto.github.io/Runica/",
+  "name": "Runica",
+  "homepage": "https://github.com/DavidePisani/Runica",
   "private": true,
   "version": "0.0.0",
   "type": "module",
